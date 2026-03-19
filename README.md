@@ -49,18 +49,18 @@ Use **official docs** when you want the **full depth, latest wording, and origin
 
 ## Documentation
 
-- [Responsible AI and Safe GitHub Copilot Usage](./docs/kb/01-responsible-ai-ethics-and-safe-usage.kb.md)  
-- [GitHub Copilot Fundamentals, Plans, and Core Features](./docs/kb/02-github-copilot-fundamentals-plans-and-core-features.kb.md)  
-- [Copilot in the IDE: Suggestions, Chat, Inline Chat, and Edits](./docs/kb/03-copilot-in-the-ide-suggestions-chat-inline-chat-and-edits.kb.md)  
-- [Prompt Crafting, Prompt Engineering, and Context Control](./docs/kb/04-prompt-crafting-engineering-and-context-control.kb.md)  
-- [How Copilot Works: Context, Data Flow, and Limitations](./docs/kb/05-how-copilot-works-context-data-flow-and-limitations.kb.md)  
-- [Privacy, Public Code Matching, Content Exclusions, and Safeguards](./docs/kb/06-privacy-public-code-matching-content-exclusions-and-safeguards.kb.md)  
-- [Administration, Policy Management, and Enterprise Governance](./docs/kb/07-administration-policy-management-and-enterprise-governance.kb.md)  
-- [Developer Productivity, SDLC, and Practical Use Cases](./docs/kb/08-developer-productivity-sdlc-and-practical-use-cases.kb.md)  
-- [Testing with GitHub Copilot](./docs/kb/09-testing-with-github-copilot.kb.md)  
-- [GitHub.com Workflows: Pull Requests, Code Review, and Issues](./docs/kb/10-github-com-workflows-pull-requests-code-review-and-issues.kb.md)  
-- [Spaces, Knowledge Bases, and MCP Server](./docs/kb/11-spaces-knowledge-bases-and-mcp-server.kb.md)  
-- [Agents, CLI, Metrics, and Advanced Operational Capabilities](./docs/kb/12-agents-cli-metrics-and-advanced-operational-capabilities.kb.md)  
+- [Responsible AI and Safe GitHub Copilot Usage](./source/docs/kb/01-responsible-ai-ethics-and-safe-usage.kb.md)  
+- [GitHub Copilot Fundamentals, Plans, and Core Features](./source/docs/kb/02-github-copilot-fundamentals-plans-and-core-features.kb.md)  
+- [Copilot in the IDE: Suggestions, Chat, Inline Chat, and Edits](./source/docs/kb/03-copilot-in-the-ide-suggestions-chat-inline-chat-and-edits.kb.md)  
+- [Prompt Crafting, Prompt Engineering, and Context Control](./source/docs/kb/04-prompt-crafting-engineering-and-context-control.kb.md)  
+- [How Copilot Works: Context, Data Flow, and Limitations](./source/docs/kb/05-how-copilot-works-context-data-flow-and-limitations.kb.md)  
+- [Privacy, Public Code Matching, Content Exclusions, and Safeguards](./source/docs/kb/06-privacy-public-code-matching-content-exclusions-and-safeguards.kb.md)  
+- [Administration, Policy Management, and Enterprise Governance](./source/docs/kb/07-administration-policy-management-and-enterprise-governance.kb.md)  
+- [Developer Productivity, SDLC, and Practical Use Cases](./source/docs/kb/08-developer-productivity-sdlc-and-practical-use-cases.kb.md)  
+- [Testing with GitHub Copilot](./source/docs/kb/09-testing-with-github-copilot.kb.md)  
+- [GitHub.com Workflows: Pull Requests, Code Review, and Issues](./source/docs/kb/10-github-com-workflows-pull-requests-code-review-and-issues.kb.md)  
+- [Spaces, Knowledge Bases, and MCP Server](./source/docs/kb/11-spaces-knowledge-bases-and-mcp-server.kb.md)  
+- [Agents, CLI, Metrics, and Advanced Operational Capabilities](./source/docs/kb/12-agents-cli-metrics-and-advanced-operational-capabilities.kb.md)  
 
 
 ## Practice Tests
