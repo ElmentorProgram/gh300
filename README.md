@@ -1,6 +1,6 @@
 # GH-300 GitHub Copilot: Pass The Exam, Deeply Understand Copilot
 
-This repository is designed to help you pass the **Microsoft GitHub Copilot certification (GH-300)** exam with a clear, structured learning path.
+With around **750 exam-style questions** paired with **high-impact explanations**, this repository is designed to help you pass the **Microsoft GitHub Copilot certification (GH-300)** exam with a clear, structured learning path.
 
 It teaches GitHub Copilot from the ground up, starting with fundamentals that stay true across real developer workflows. You will build a solid foundation in core concepts like prompting, context, suggestions, chat, plans, governance, privacy boundaries, and Responsible AI.
 
@@ -16,21 +16,19 @@ After the fundamentals are clear, each concept is connected to GitHub Copilot fe
 - **Deep-knowledge learners** who want strong fundamentals first, then mapping to real Copilot features and exam scenarios
 
 ## What you will learn
-- What GitHub Copilot is, how it works, and where it fits in developer workflows
-- How inline suggestions, chat, edits, and agent flows differ in real usage
-- How prompt clarity, structure, and surrounding context affect output quality
-- How better prompts reduce ambiguity and improve useful Copilot responses
-- How zero-shot, one-shot, and few-shot prompting differ and when to use them
-- How role prompting can improve results in security, testing, and refactoring
-- How chat history, context scope, and reset points affect response relevance
-- How Copilot plans differ for individuals, teams, and enterprise environments
-- How Copilot features differ across IDEs, CLI, GitHub.com, and pull requests
-- How coding agent and agent-style workflows fit into modern development tasks
-- How pull request summaries, reviews, and code-related assistance support teams
-- How privacy, retention, and prompt data handling work across Copilot surfaces
-- How governance, policy controls, exclusions, and admin features shape safe use
-- How Responsible AI principles apply to practical Copilot usage and decisions
-- How to recognize common exam traps, feature mix-ups, and scenario distinctions
+- What GitHub Copilot is, how it works, and where it fits in real developer workflows  
+- How suggestions, chat, inline chat, edits, and agent flows differ in practical usage  
+- How prompt clarity, structure, roles, and context affect Copilot output quality  
+- How better prompts reduce ambiguity and improve useful and relevant responses  
+- How zero-shot, one-shot, and few-shot prompting differ and when to use them  
+- How chat history, context scope, and reset points affect relevance and continuity  
+- How Copilot plans and core features differ for individuals, teams, and enterprises  
+- How Copilot experiences differ across IDEs, CLI, GitHub.com, and pull requests  
+- How pull request summaries, reviews, and assistance support team workflows  
+- How privacy, retention, exclusions, and safeguards apply across Copilot usage  
+- How governance, policy controls, and admin features shape enterprise adoption  
+- How Responsible AI principles apply in real usage and decision making  
+- How to recognize common exam traps, feature mix-ups, and scenario distinctions  
 
 ## Why use this repo for study/revision?
 This repo doesn’t replace **official GitHub documentation** or **Microsoft Learn**. It **compresses** them into **high signal** study material and practice tests that focus on the concepts, distinctions, and patterns that matter most.
@@ -64,55 +62,73 @@ Use **official docs** when you want the **full depth, latest wording, and origin
 
 
 ## Practice Tests
-This repo includes practice tests to validate understanding and catch common confusion points. The goal is not only to test recall, but to make sure the concepts are clear and usable in real scenarios.
 
-These practice tests are designed as a connected set with three types:
+Passing GH-300 is not about reading more. It’s about **practicing how to think under exam conditions**.
 
-- The Raw version is the source of truth for all questions.
-- Every Raw question is mirrored one-to-one in the Detailed version. The Detailed version adds deep explanations, clarifications, and exam-focused guidance.
-- The Compressed version covers the same key points with fewer questions, making it useful for faster revision and high-impact review.
+This repo includes **750 exam-style questions** designed to simulate the real exam, expose weak areas, and help you recognize the distinctions that matter.
 
-Practice tests come in several formats:
-- Markdown study files (study focused, includes answers, works well as a reference)
-- Microsoft Forms quizzes (practice focused, exam-style, with explanations where available)
+All quizzes are delivered through **Microsoft Forms**, giving you an **exam-like experience** with a score at the end and answer explanations.
 
-Practice tests come in three types:
+### Coverage
 
-### Raw Practice Tests (Questions And Correct Answers Only)
-This includes all questions with no explanations, just the question and the correct answer.  
-It acts like the source material.
+| Format | Questions | Markdown Files | Microsoft Forms |
+|--------|-----------|----------------|-----------------|
+| Detailed Practice Tests | 300 | 10 | 20 |
+| Raw Practice Tests | 300 | 3 | 0 |
+| Compressed Practice Tests | 150 | 0 | 15 |
+| **Total** | **750** | **13** | **35** |
 
-| Practice Test | Markdown Study File | Microsoft Form Quiz |
-| ------------- | ------------------- | ------------------- |
-| Practice Test 01 | View Study File | Open Quiz |
-| Practice Test 02 | View Study File | Open Quiz |
+### Practice formats
 
-### Detailed Practice Tests (Deep Explanations And References)
-This version beside the question and the correct answer, it includes deep explanations, breakdowns, and additional clarifications.  
-It is designed to help repair weak understanding, not just tell you whether an answer is right or wrong.
+- **Detailed Practice Tests:**  
+  Start here for the best balance of practice, answers, and explanations. This format helps you understand why an answer is correct and repair weak areas properly.
 
-| Practice Test | Markdown Study File | Microsoft Form Quiz |
-| ------------- | ------------------- | ------------------- |
-| Practice Test 01 | View Study File | Open Quiz |
-| Practice Test 02 | View Study File | Open Quiz |
+- **Raw Practice Tests:**  
+  Use this format for faster checking and focused revision. It is useful when you want direct answer review across larger question sets.
 
-### Compressed Practice Tests (High-Coverage And Low-Volume Review)
-This version reduces question volume while preserving the most important concepts and exam signals.  
-It is designed for faster revision when you want maximum coverage with less reading.
+- **Compressed Practice Tests:**  
+  Use this format for faster high-impact revision. It revisits the same key topics from different angles in a lighter exam-practice style.
 
-| Practice Test | Markdown Study File | Microsoft Form Quiz |
-| ------------- | ------------------- | ------------------- |
-| Practice Test 01 | View Study File | Open Quiz |
-| Practice Test 02 | View Study File | Open Quiz |
+### Detailed Practice Tests (Answer Sheet & Explanation) (300 Questions)
 
-## Contributing
+| Practice Test | Questions | Start Quiz (Set 1) | Start Quiz (Set 2) | Answer Sheet & Explanation |
+|---------------|-----------|--------------------|--------------------|-----------------------------|
+| Detailed Practice Test 01 | 001–030 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/01-practice-test.detailed.md) |
+| Detailed Practice Test 02 | 031–060 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/02-practice-test.detailed.md) |
+| Detailed Practice Test 03 | 061–090 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/03-practice-test.detailed.md) |
+| Detailed Practice Test 04 | 091–120 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/04-practice-test.detailed.md) |
+| Detailed Practice Test 05 | 121–150 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/05-practice-test.detailed.md) |
+| Detailed Practice Test 06 | 151–180 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/06-practice-test.detailed.md) |
+| Detailed Practice Test 07 | 181–210 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/07-practice-test.detailed.md) |
+| Detailed Practice Test 08 | 211–240 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/08-practice-test.detailed.md) |
+| Detailed Practice Test 09 | 241–270 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/09-practice-test.detailed.md) |
+| Detailed Practice Test 10 | 271–300 | [Start Quiz](X) | [Start Quiz](X) | [Answer Sheet & Explanation](./source/docs/practice/detailed/10-practice-test.detailed.md) |
 
-If you spot an unclear explanation or want to suggest an improvement, open an issue with:
-- The document name
-- The section title
-- What felt confusing and what you expected instead
 
-If you are reporting a problem in a Microsoft Forms quiz, include:
-- The quiz name
-- The question number (or a screenshot)
-- What you think the correct answer should be and why
+### Raw Practice Tests (Answer Sheet) (300 Questions)
+
+| Practice Test | Questions | Answer Sheet |
+|---------------|-----------|--------------|
+| Raw Practice Test 01 | 001–100 | [Answer Sheet](./source/docs/practice/raw/01-practice-test.raw.md) |
+| Raw Practice Test 02 | 101–200 | [Answer Sheet](./source/docs/practice/raw/02-practice-test.raw.md) |
+| Raw Practice Test 03 | 201–300 | [Answer Sheet](./source/docs/practice/raw/03-practice-test.raw.md) |
+
+### Compressed Practice Tests (Exam Practice Quiz) (150 Questions)
+
+| Practice Test | Questions | Start Quiz |
+|---------------|-----------|------------|
+| Compressed Practice Test 01 | 001–010 | [Start Quiz](X) |
+| Compressed Practice Test 02 | 011–020 | [Start Quiz](X) |
+| Compressed Practice Test 03 | 021–030 | [Start Quiz](X) |
+| Compressed Practice Test 04 | 031–040 | [Start Quiz](X) |
+| Compressed Practice Test 05 | 041–050 | [Start Quiz](X) |
+| Compressed Practice Test 06 | 051–060 | [Start Quiz](X) |
+| Compressed Practice Test 07 | 061–070 | [Start Quiz](X) |
+| Compressed Practice Test 08 | 071–080 | [Start Quiz](X) |
+| Compressed Practice Test 09 | 081–090 | [Start Quiz](X) |
+| Compressed Practice Test 10 | 091–100 | [Start Quiz](X) |
+| Compressed Practice Test 11 | 101–110 | [Start Quiz](X) |
+| Compressed Practice Test 12 | 111–120 | [Start Quiz](X) |
+| Compressed Practice Test 13 | 121–130 | [Start Quiz](X) |
+| Compressed Practice Test 14 | 131–140 | [Start Quiz](X) |
+| Compressed Practice Test 15 | 141–150 | [Start Quiz](X) |
