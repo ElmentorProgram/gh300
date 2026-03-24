@@ -28,7 +28,16 @@ After the fundamentals are clear, each concept is connected to GitHub Copilot fe
 - How privacy, retention, exclusions, and safeguards apply across Copilot usage  
 - How governance, policy controls, and admin features shape enterprise adoption  
 - How Responsible AI principles apply in real usage and decision making  
-- How to recognize common exam traps, feature mix-ups, and scenario distinctions  
+- How to recognize common exam traps, feature mix-ups, and scenario distinctions
+
+## Community Discussion & Study Group
+
+This GitHub Discussions started as part of an active **study group and discussions in 2025**, before the repository was made public. During that phase, a large number of real discussions, clarifications, and deep concept breakdowns were shared and refined.
+
+The discussions remain a **high-value source of insights**, covering tricky scenarios, common misunderstandings, and real exam thinking patterns.
+
+You can explore and see all the discussions here:   
+[GiHub 300 Exame Discussions](https://github.com/ElmentorProgram/gh300/discussions)
 
 ## Why use this repo for study/revision?
 This repo doesn’t replace **official GitHub documentation** or **Microsoft Learn**. It **compresses** them into **high signal** study material and practice tests that focus on the concepts, distinctions, and patterns that matter most.
